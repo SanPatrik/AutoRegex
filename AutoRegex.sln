@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRegex", "AutoRegex\AutoRegex.csproj", "{BC9E2EFD-59D3-4581-B3DA-FA2D9F72795A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC9E2EFD-59D3-4581-B3DA-FA2D9F72795A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC9E2EFD-59D3-4581-B3DA-FA2D9F72795A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC9E2EFD-59D3-4581-B3DA-FA2D9F72795A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC9E2EFD-59D3-4581-B3DA-FA2D9F72795A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
