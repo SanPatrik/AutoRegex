@@ -6,9 +6,7 @@ public static class Parser
     {
         var allLines = File.ReadAllLines(filePath).ToList();
 
-        allLines.RemoveAt(0);
-
-        return allLines;
+        return allLines.GetRange(1, int.Parse(allLines[0]));
     }
     
     public static List<RegexAndOperation> ParseRegexFile(string filePath)
